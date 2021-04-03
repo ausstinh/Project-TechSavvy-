@@ -27,4 +27,4 @@
 Check out every [project requirements](https://github.com/ausstinh/Senior-Captsone-Documentation/blob/main/CST-451%20Project%20Requirements.docx "Project Requirements") 
 
 ## Next 
-[Technologies](https://github.com/JoshVandeWalle/OpinionMarket/blob/main/Technologies.md "Technologies")
+[Technologies](https://github.com/ausstinh/Project-TechSavvy-/blob/main/Technologies.md "Technologies")
