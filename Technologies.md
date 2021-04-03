@@ -15,6 +15,6 @@ MYSQL was chosen as the database for TechSavvy because of familiarity and popula
 ### Azure Cloud
 Azure Cloud was chosen because of their services are dependable and reliable when .NET Core and React projects are required to communicate with each other. Azure is a public cloud computing platform—with solutions including Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS) that can be used for services such as analytics, storage, and networking. Azure Cloud provided a way for a online MYSQL database using PHPMyAdmin to connect the back-end project.
 
-## Next 
+## Next Page
 [Technical Approach](https://github.com/JoshVandeWalle/OpinionMarket/blob/main/Approach.md "Approach")
 
