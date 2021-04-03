@@ -24,7 +24,8 @@
   2. Firefox [x]
   3. Internet Explorer [x]
   4. Opera [x]
-Check out all [project requirements](https://github.com/ausstinh/Senior-Captsone-Documentation/blob/main/CST-451%20Project%20Requirements.docx "Project Requirements") 
+  
+Check out every [project requirements](https://github.com/ausstinh/Senior-Captsone-Documentation/blob/main/CST-451%20Project%20Requirements.docx "Project Requirements") 
 
 ## Next 
 [Technologies](https://github.com/JoshVandeWalle/OpinionMarket/blob/main/Technologies.md "Technologies")
