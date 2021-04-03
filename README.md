@@ -8,7 +8,7 @@ This project has many objectives to achieve. For one, the application should hav
 
 Tech Savvy is a simple and quick way to discover your future career in technology. When a user register, they are prompted to input a job title, location, or description that will search for jobs in the field of technology. The application has the task of requesting and receiving data to display multiple jobs and their description on a table. The user has the option to view their history searches and save jobs to view in their profile. As an accomplishment, the application is made up of a .Net Core back-end and React front-end that continues to receive data using a REST API from the third-party GitHub Jobs API. Both project ends will transfer data between each other at the request of the user. The secured application has a MYSQL database that hold registered users with security caches and hashes. Both applications will be stationed on the Azure cloud.
 
-See more about the problem and solution [here.](https://github.com/ausstinh/Senior-Captsone-Documentation/blob/main/CST-451%20Capstone%20Project%20Proposal.docx "Project Proposal") 
+Check out more about the [problem and solution](https://github.com/ausstinh/Senior-Captsone-Documentation/blob/main/CST-451%20Capstone%20Project%20Proposal.docx "Project Proposal") 
 
 
 ## Next 
