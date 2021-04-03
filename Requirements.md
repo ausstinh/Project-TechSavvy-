@@ -26,5 +26,5 @@
   
 Check out every [project requirements](https://github.com/ausstinh/Senior-Captsone-Documentation/blob/main/CST-451%20Project%20Requirements.docx "Project Requirements") 
 
-## Next 
+## Next Page
 [Technologies](https://github.com/ausstinh/Project-TechSavvy-/blob/main/Technologies.md "Technologies")
