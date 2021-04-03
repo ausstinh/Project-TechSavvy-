@@ -12,4 +12,4 @@ See more about the problem and solution [here.](https://github.com/ausstinh/Seni
 
 
 ## Next 
-[Requirements](https://github.com/JoshVandeWalle/OpinionMarket/blob/main/Requirements.md#requirements "Requirements")
+[Requirements](https://github.com/ausstinh/Project-TechSavvy-/blob/main/Requirements.md "Requirements")
