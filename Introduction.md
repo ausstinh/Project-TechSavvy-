@@ -1,6 +1,5 @@
 # Introduction  
  
-
 ### The Problem and Solution  
 The questions a job-seeker in the technology field may ask are “What sort of technology career will I have and job can I get if I want to pursue this degree?” and “I’m only curious to know what this degree has to offer but where can I go to easily find out?”. Before starting college, students in technology have a hard time figuring out what they want to do for the rest of their lives, and they are confused on whether that degree will get them their dream job. It is a lot of work to research many job sites to find out what career they might want to do after graduating college. With this application, students will have a better idea on what career they may want to pursue. This application can also help people who are simply wondering what technology jobs are being offered.
 
@@ -10,6 +9,5 @@ Tech Savvy is a simple and quick way to discover your future career in technolog
 
 Check out more about the [problem and solution](https://github.com/ausstinh/Senior-Captsone-Documentation/blob/main/CST-451%20Capstone%20Project%20Proposal.docx "Project Proposal") 
 
-
-## Next 
+## Next Page
 [Requirements](https://github.com/ausstinh/Project-TechSavvy-/blob/main/Requirements.md "Requirements")
