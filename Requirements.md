@@ -6,8 +6,8 @@
 -	User authentication
 -	Reset password
 -	Security protocals 
-  1. Validation messages
-  2. Security questions
+    1. Validation messages
+    2. Security questions
 -	Display latest techonlogy related jobs
 -	Search requested techonlogy related jobs 
 -	View individual job details
@@ -17,8 +17,7 @@
 -	View and remove search history
 -	Administration management (view, delete, and suspend all users)
 ### High-Level Non-Functional Requirements
--	Security protocals 
-  1. Hashed password in Database
+-	Hashed password in Database
 - Responsive Web Application
   1. Google Chrome [x]
   2. Firefox [x]
