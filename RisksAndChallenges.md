@@ -18,4 +18,4 @@ I am familiar with .NET Framework which provided a reference to use to learn .NE
 Risks were identified as well as mitigating them before the developing phase began. I created small proof of concept test applications to quickly mitigate risks. Test applications were made for understanding the Axios function of sending HTTP requests between projects and sending HTTP requests to the third-party GitHub Jobs API.Deploying test applications to the Azure Cloud to understand how a React and .NET Core project can communicate.
 
 ## Next 
-[Issues](https://github.com/JoshVandeWalle/OpinionMarket/blob/main/Issues.md "Issues")
+[Issues](https://github.com/ausstinh/Project_TechSavvy/blob/main/Issues.md)
