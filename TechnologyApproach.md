@@ -25,4 +25,4 @@ Azure Cloud and Visual Studio 2019 are owned by Microsoft. Microsoft uses its ow
 - [ER Design](https://github.com/ausstinh/Senior-Captsone-Documentation/blob/main/ER.PNG)
 
 ## Next Page
-[Risks & Challenges](https://github.com/JoshVandeWalle/OpinionMarket/blob/main/RisksAndChallenges.md "Risks & Challenges")
+[Risks & Challenges](https://github.com/ausstinh/Project-TechSavvy-/blob/main/RisksAndChallenges.md)
